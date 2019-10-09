@@ -1,0 +1,44 @@
+body {
+	
+	background-image: linear-gradient(to bottom right,rgb(182, 182, 255), rgb(255, 186, 182));
+	font-family: 'Kaushan Script', cursive;
+}
+
+p {
+	font-size: 30px;
+
+	
+}
+
+h1 {
+    
+}
+
+img{
+	height: 30%;
+	width:30%;
+}
+ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	/*width:200px; */
+	overflow: hidden;
+	background-color:white;
+	position:fixed;
+}
+li {
+	float: left;
+}
+li a {
+	display:block;
+	color: coral;
+	text-align: center;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color:black;
+	color:coral;
+}
+
