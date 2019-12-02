@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<center><title>Portfolio</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap" rel="stylesheet">
+</head>
+<body>
+<ul>
+	<li><a href="portfolio.html" target="_blank">About me</a></li>
+	<li><a href="ceramics.html">Ceramics</a></li>
+	<li><a href="paintings.html">Paintings</a></li>
+	<li><a href="digitalart.html">Digital Art</a></li>
+</ul>
+<h1>Paintings</h1>
+<Center><img src="plugs/bones.jpg">
+<p>Acrylic.</p></Center>
+<center><img src="plugs/jelyfish.jpg">
+<p>Violin painted with acrylic.</p></center>
+<center><img src="plugs/josh.jpg">
+<p>Watercolor on canvas.</p></center>
+<center><img src="plugs/leigh.jpg">
+<p>Acrylic.</p></center>
+<center><img src="plugs/renee.jpg">
+<p>Acrylic.</p></center>
+<center><img src="plugs/sally.jpg">
+<p>Acrylic.</p></center>
+<center><img src="plugs/swing.jpg">
+<p>Acrylic.</p></center>
+</body>
+</html>
